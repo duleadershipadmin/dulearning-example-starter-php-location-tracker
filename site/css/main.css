@@ -1,0 +1,43 @@
+h1 {
+	color: black;
+	text-align: center
+}	
+
+.header {
+	padding-bottom: 2em;
+}
+
+.inputBox {
+	text-align: center;
+	width: 100%;
+}
+
+input,label {
+	margin-top: 1em;
+}
+
+.locationBox {
+	padding: 1em;
+	width: 100%
+}
+
+.tableBox {
+	padding: 1em;
+	width: 100%
+}
+
+
+.error {
+	width: 100%;
+	text-align: center;
+}
+
+.error p {
+	color: red;
+	font-size: .75em;
+}
+
+.locForm {
+	display: inline-block;
+	margin-right: 1em;
+}
